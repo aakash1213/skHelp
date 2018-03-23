@@ -1,0 +1,1 @@
+<?php $lang['user_update_success'] = 'User Updated Successfully.';$lang['user_update_error'] = 'Unable to Update User , Please Try Again!';$lang['no_result_found'] = 'No result found.';$lang['field_is_mandatory'] = "'%s' field is mandatory";$lang['invalid_user_id'] = 'Invalid user or vendor';$lang['invalid_user'] = 'Invalid user id';?>
